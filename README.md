@@ -7,11 +7,11 @@ In sports, athlete motion is directly related to form and performance. Video ana
 This project investigates action recognition using deep learning techniques to build a robust classification architecture for sports video analysis.  
 
 ## 🔥 Project Goals  
-This project aims to develop a **robust 3D HPE-based action recognition system**, leveraging state-of-the-art techniques to achieve **real-time, high-accuracy detection** of kickboxing combat gestures. To achieve this, a **curated dataset** of kickboxing-specific gestures will be developed and used to train multiple deep learning classifiers.  
+This project aims to develop a **robust 3D HPE-based action recognition system**, leveraging state-of-the-art techniques to achieve **real-time, high-accuracy detection** of kickboxing combat gestures. To achieve this, a **curated dataset** of kickboxing-specific gestures was developed and used to train 2 deep learning classifiers.  
 
 ## 🚀 Key Features  
-✔️ 3D Human Pose Estimation (HPE) for action recognition  
-✔️ Multi-model classification for robust gesture detection  
+✔️ 3D Human Pose Estimation (HPE) using MediaPipe BlazePose for action recognition  
+✔️ Multi-model classification for robust gesture detection (Conv1D, LSTM)  
 ✔️ Curated dataset of kickboxing-specific movements  
 ✔️ Real-time detection with deep learning models  
 
