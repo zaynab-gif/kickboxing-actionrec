@@ -15,5 +15,4 @@ This project aims to develop a **robust 3D HPE-based action recognition system**
 ✔️ Curated dataset of kickboxing-specific movements  
 ✔️ Real-time detection with deep learning models  
 
-
-![Alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF5bHAzNGU1Z2xzZzl2ZjEzc2ptdGt5Z2Vubmoxa2l2MXZtdWtyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XI80HPtqYRJrftLm9M/giphy.gif)
+![14F3155C-BEC4-42DF-A524-7DA35D83271A](https://github.com/user-attachments/assets/82994834-a0b9-403c-a25c-9d1deaac0783)
